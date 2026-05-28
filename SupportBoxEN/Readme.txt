@@ -25,15 +25,15 @@ The script is divided into automated testing modules, built to be stable and cra
 ##  Menu Preview
 
 ```text
-=== MENU DE MAINTENANCE ===
-1. Afficher les infos système
-2. Diagnostic réseau 
-3. Tester internet / DNS
-4. Vérifier l'espace disque (C:)
-5. Imprimantes
-6. Lecteurs réseau
-7. Générer un rapport complet
-8. Générer un résumé pour ticket support
-9. Quitter le script
-===========================
-Entrez votre choix (1-9):
+=== MAINTENANCE MENU ===
+1. Display system info
+2. Network diagnostics
+3. Test Internet / DNS
+4. Check disk space (C:)
+5. Printers
+6. Network drives
+7. Generate full report
+8. Generate summary for support ticket
+9. Exit script
+=========================
+Enter your choice (1-9):
